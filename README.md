@@ -30,6 +30,8 @@ Key insights: - United States has the most billionaires. - Technology and Financ
 prosperity indicators (GDP, CPI) align with billionaire density. Visuals include bar charts, pie charts,
 and heatmaps (designed in Excel). The dashboard sheet can be further developed for reporting
 
+![](https://github.com/Tobicodesgithub/Global-wealth-analysis-project/blob/main/Billonaire%20dashboard.png)
+
 ## 6. Conclusion and Recommendation
 The data indicates a strong link between national economic strength and billionaire presence,
 though personal innovation plays a major role. For deeper insights, future work should include
