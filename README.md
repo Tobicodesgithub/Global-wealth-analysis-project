@@ -23,6 +23,8 @@ information such as: - Name, Age, Country, and Industry - Source of Wealth - Eco
 GDP, CPI, Life Expectancy, Tax Rate, etc. The primary data is located on the "Data" sheet, which
 contains over 20 columns of structured information.
 
+![](https://github.com/Tobicodesgithub/Global-wealth-analysis-project/blob/main/Annotation%202025-06-20%20064102.png)
+
 
 ## 5. Analysis & Visualization
 Key insights: - United States has the most billionaires. - Technology and Finance are top industries.
