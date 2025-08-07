@@ -14,8 +14,12 @@ national economic indicators (GDP, CPI, etc.) and billionaire presence? - How do
 billionaires compare to inherited wealth individuals?
 
 ## 3. Skills Demonstrated
-- Excel Data Cleaning - Pivot Table Analysis - Lookup Functions - Data Transformation (Column
-renaming, type conversions) - Conditional Formatting - Data Visualization (Charts, Dashboards).
+- Excel Data Cleaning
+- Pivot Table Analysis
+- Data Transformation (Column renaming, type conversions)
+- Data Visualization (Charts, Dashboards).
+
+![](https://github.com/Tobicodesgithub/Global-wealth-analysis-project/blob/main/Annotation%202025-06-20%20063911.png)
 
 ## 4. Data Sourcing
 The dataset originates from a curated list of global billionaires. It includes personal and financial
